@@ -6,7 +6,7 @@ This project aims to predict weather conditions (temperature, humidity, precipit
 ## Installation Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/weather-prediction.git
+    git clone https://github.com/ling-2002/weather-prediction.git
     cd weather-prediction-cpp
     ```
 
